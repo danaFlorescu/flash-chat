@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916576432034",
+    "project_id": "flash-chat-2023-73c65",
+    "storage_bucket": "flash-chat-2023-73c65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916576432034:android:a21939df3f16154e6bccfb",
+        "android_client_info": {
+          "package_name": "com.danaFlorescu.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916576432034-bbm3gkip18nsfaqah4n2qdpi2un0evfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjST3LsxEdr51-nxQ_dFp7MEZrdXWNYkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916576432034-bbm3gkip18nsfaqah4n2qdpi2un0evfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
